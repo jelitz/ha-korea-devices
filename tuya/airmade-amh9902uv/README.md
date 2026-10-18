@@ -22,7 +22,7 @@ HACS 기본 목록에서 "tuya local"이 검색되지 않으면 사용자 저장
 
 ## 2. 기기 설정 파일 넣기
 
-tuya-local에 이 가습기 설정이 포함되기 전까지는 파일을 직접 넣어야 합니다. ([업스트림 PR](PR_LINK) 진행 중)
+tuya-local에는 아직 이 가습기 설정이 없어서 파일을 직접 넣어야 합니다.
 
 [`airmade_amh9902uv_humidifier.yaml`](airmade_amh9902uv_humidifier.yaml)을 HA 설정 폴더의 다음 위치에 복사하고 HA를 재시작합니다.
 
